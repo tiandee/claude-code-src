@@ -608,11 +608,11 @@ classDiagram
 
 ```xml
 <task_notification>
-<task_id>a8kg2fm1</task_id>
-<tool_use_id>toolu_01XFG7...</tool_use_id>
-<output_file>/Users/dev/.claude/projects/.../agent-a8kg2fm1.jsonl</output_file>
-<status>completed</status>
-<summary>Background agent "重构 utils 模块" completed</summary>
+  <task_id>a8kg2fm1</task_id>
+  <tool_use_id>toolu_01XFG7...</tool_use_id>
+  <output_file>/Users/dev/.claude/projects/.../agent-a8kg2fm1.jsonl</output_file>
+  <status>completed</status>
+  <summary>Background agent "重构 utils 模块" completed</summary>
 </task_notification>
 ```
 
